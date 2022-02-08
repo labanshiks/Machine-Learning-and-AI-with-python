@@ -1,5 +1,3 @@
-# CS50 AI- Week 0 - TicTacToe
-
 ## Task:
 Using Minimax, implement an AI to play Tic-Tac-Toe optimally, optionally using Alpha-Beta pruning to make the AI run more efficiently.
 
